@@ -148,20 +148,20 @@ p.enlarge span {
 
 /* //-- section styles -- */
 
-.job {
+.project {
 	position: relative;
 	margin-bottom: 1em;
 	padding-bottom: 1em;
 	border-bottom: 1px solid #ccc;
 }
 
-.job h4 {
+.project h4 {
 	position: absolute;
 	top: 0.35em;
 	right: 0
 }
 
-.job p {
+.project p {
 	margin: 0.75em 0 3em 0;
 }
 
@@ -185,12 +185,12 @@ p.enlarge span {
 	padding: 0
 }
 
-.talent {
+.education {
 	width: 32%;
 	float: left
 }
 
-.talent h2 {
+.education h2 {
 	margin-bottom: 6px;
 }
 
